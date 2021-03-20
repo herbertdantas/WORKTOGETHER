@@ -4,6 +4,7 @@ h1{
 
 p{
   color: crimson;
-  
   font-size: 30px;
+  font-weight: 500;
+  background-color: darkorange;
 }
